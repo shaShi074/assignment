@@ -1,0 +1,42 @@
+{
+  "men": [
+    {
+      "category": "Tops",
+      "subcategories": ["T-shirts", "Shirts", "Sweaters", "Jackets", "Coats"]
+    },
+    {
+      "category": "Bottoms",
+      "subcategories": ["Jeans", "Pants", "Shorts"]
+    },
+    {
+      "category": "Footwear",
+      "subcategories": ["Sneakers", "Boots", "Formal Shoes", "Sandals"]
+    },
+    {
+      "category": "Accessories",
+      "subcategories": ["Hats", "Belts", "Ties", "Watches", "Sunglasses", "Scarves"]
+    }
+  ],
+  "women": [
+    {
+      "category": "Tops",
+      "subcategories": ["T-shirts", "Blouses", "Sweaters", "Jackets", "Coats"]
+    },
+    {
+      "category": "Bottoms",
+      "subcategories": ["Jeans", "Pants", "Skirts", "Shorts"]
+    },
+    {
+      "category": "Dresses",
+      "subcategories": ["Casual Dresses", "Formal Dresses", "Party Dresses"]
+    },
+    {
+      "category": "Footwear",
+      "subcategories": ["Flats", "Heels", "Boots", "Sandals"]
+    },
+    {
+      "category": "Accessories",
+      "subcategories": ["Hats", "Belts", "Scarves", "Handbags", "Watches", "Jewelry", "Sunglasses"]
+    }
+  ]
+}
